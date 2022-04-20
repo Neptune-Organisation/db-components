@@ -1,0 +1,67 @@
+[
+    {
+        "articleTitle" : "Editorial: The Impact of Music on Human Development and Well-Being",
+        "articleSubtitle" : ["Editorial on the Research Topic", "The Impact of Music on Human Development and Well-Being"],
+        "author" : [ "Graham F. Welch", "Michele Biasutti", "Jennifer MacRitchie", "Gary E. McPherson", "Evangelos Himonides"],
+        "date" : "10/04/02",
+        "sections" : [
+            {
+                "id" : 0,
+                "sectionTitle" : "",
+                "sectionSubtitle" : "",
+                "content" : [
+                    {
+                        "id" : 0,
+                        "type" : "text",
+                        "content" : "Music is one of the most universal ways of expression and communication for humankind and is present in the everyday lives of people of all ages and from all cultures around the world (Mehr et al., 2019). Hence, it seems more appropriate to talk about musics (plural) rather than in the singular (Goble, 2015). Furthermore, research by anthropologists as well as ethnomusicologists suggests that music has been a characteristic of the human condition for millennia (cf. Blacking, 1976; Brown, 1999; Mithen, 2005; Dissanayake, 2012; Higham et al., 2012; Cross, 2016). Nevertheless, whilst the potential for musical behavior is a characteristic of all human beings, its realization is shaped by the environment and the experiences of individuals, often within groups (North and Hargreaves, 2008; Welch and McPherson, 2018). Listening to music, singing, playing (informally, formally), creating (exploring, composing, improvising), whether individually and collectively, are common activities for the vast majority of people. Music represents an enjoyable activity in and of itself, but its influence goes beyond simple amusement."
+                    },
+                    {
+                        "id" : 1,
+                        "type" : "text",
+                        "content" : "These activities not only allow the expression of personal inner states and feelings, but also can bring about many positive effects in those who engage in them. There is an increasing body of empirical and experimental studies concerning the wider benefits of musical activity, and research in the sciences associated with music suggests that there are many dimensions of human life—including physical, social, educational, psychological (cognitive and emotional)—which can be affected positively by successful engagement in music (Biasutti and Concina, 2013). Learning in and through music is something that can happen formally (such as part of structured lessons in school), as well as in other-than-formal situations, such as in the home with family and friends, often non-sequentially and not necessarily intentional, and where participation in music learning is voluntary, rather than mandated, such as in a community setting (cf. Green, 2002; Folkestad, 2006; Saether, 2016; Welch and McPherson, 2018)."
+                    },
+                    {
+                        "id" : 2,
+                        "type" : "image",
+                        "content" : "https://images.unsplash.com/photo-1649434223949-8004cc032ac2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+                    },
+                    {
+                        "id" : 3,
+                        "type" : "text",
+                        "content" : "Such benefits are evidenced across the lifespan, including early childhood (Gerry et al., 2012; Williams et al., 2015; Linnavalli et al., 2018), adolescence (McFerran et al., 2018), and older adulthood (Lindblad and de Boise, 2020). Within these lifespan perspectives, research into music's contribution to health and well-being provides evidence of physical and psychological impacts (MacDonald et al., 2013; Fancourt and Finn, 2019; van den Elzen et al., 2019). Benefits are also reported in terms of young people's educational outcomes (Guhn et al., 2019), and successful musical activity can enhance an individual's sense of social inclusion (Welch et al., 2014) and social cohesion (Elvers et al., 2017)."
+                    },
+                    {
+                        "id" : "4",
+                        "type" : "text",
+                        "content" : "This special issue provides a collection of 21, new research articles that deepen and develop our understanding of the ways and means that music can impact positively on human development and well-being. The collection draws on the work of 88 researchers from 17 different countries across the world, with each article offering an illustration of how music can relate to other important aspects of human functioning. In addition, the articles collectively illustrate a wide range of contemporary research approaches. These provide evidence of how different research aims concerning the wider benefits of music require sensitive and appropriate methodologies."
+                    },
+                    {
+                        "id" : "5",
+                        "type" : "text",
+                        "content" : "In terms of childhood and adolescence, for example, Putkinen et al. demonstrate how musical training is likely to foster enhanced sound encoding in 9 to 15-year-olds and thus be related to reading skills. A separate Finnish study by Saarikallio et al. provides evidence of how musical listening influences adolescents' perceived sense of agency and emotional well-being, whilst demonstrating how this impact is particularly nuanced by context and individuality. Aspects of mental health are the focus for an Australian study by Stewart et al. of young people with tendencies to depression. The article explores how, despite existing literature on the positive use of music for mood regulation, music listening can be double-edged and could actually sustain or intensify a negative mood."
+                    },
+                    {
+                        "id" : "6",
+                        "type" : "text",
+                        "content" : "A Portuguese study by Martins et al. shifts the center of attention from mental to physical benefits in their study of how learning music can support children's coordination. They provide empirical data on how a sustained, 24-week programme of Orff-based music education, which included the playing of simple tuned percussion instruments, significantly enhanced the manual dexterity and bimanual coordination in participant 8-year-olds compared to their active control (sports) and passive control peers. A related study by Loui et al. in the USA offers insights into the neurological impact of sustained musical instrument practice. Eight-year-old children who play one or more musical instruments for at least 0.5 h per week had higher scores on verbal ability and intellectual ability, and these correlated with greater measurable connections between particular regions of the brain related to both auditory-motor and bi-hemispheric connectivity."
+                    },
+                    {
+                        "id" : "7",
+                        "type" : "image",
+                        "content" : "https://images.unsplash.com/photo-1649420304760-bce70ae30de2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+                    }
+                ]
+            },
+            {
+                "id" : 1,
+                "sectionTitle" : "10 Things You should Think",
+                "content" :
+                {
+                    "id" : 0,
+                    "type" : "list",
+                    "content" : ["first thing", "second thing", "third thing", "fourth thing", "fifth thing", "sixth thing", "I got tired"]
+                }
+            }
+        ]
+    }
+]
